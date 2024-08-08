@@ -15,9 +15,10 @@
 2. 적절한 주석을 작성해주세요.
 3. Provider를 이용하여 상태관리를 해주세요.
 4. 게시판
-5. Model class 작성 (현재 Dto을 Model로 매핑하는 과정이 필요합니다.)
+5. Model class 작성 (현재 Dto을 Model로 매핑하는 과정이 필요합니다.) 
 5. DI 라이브러리를 한가지 사용해주세요.(필수 X)
 6. UseCase에 대해 이해하고 계시다면 UseCase를 이용한 비동기 요청방식 으로 개발해주시길 부탁드립니다.(필수 x)
 
-
- 
+### 제한사항
+ 1. freezed와 같은 코드 생성라이브러리 사용은 자제 부탁드립니다.
+ 2. ChatGPT, Github Copolot, Google Gemini등 LLM 사용은 자제 부탁드립니다.(Google 검색 등 자료 조회는 허용)
